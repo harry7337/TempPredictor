@@ -1,0 +1,2 @@
+This is a simple temperature predictor for the city of Seattle,WA using a 
+dataset from 2016. The predictor uses the random forests algorithm.
